@@ -1,0 +1,14 @@
+C,1,Praneetha,Padmanabhuni,Manager,45000.00,10.00,7000.00,8500.00
+C,4,Sujitha,Gurram,Manager,145000.00,25.00,7000.00,8500.00 
+C,7,Sandeep,Padmanabhuni,Supervisor,45000.00,10.00,7000.00,8500.00
+C,10,Thanooj,Venkata,Supervisor,45000.00,10.00,7000.00,8500.00
+S,2,Abhinash,S,Associate,550000.00
+S,5,Deekshita,Koliperla,Associate,550000.00
+S,8,Sirisha,M,Associate,550000.00
+S,11,Thendral,A,Associate,550000.00
+H,3,Sally,Smith,Worker,6.50,Y,93.50 
+H,6,Sally,ymitu,Worker,6.50,N,93.50 
+H,9,Sally,ymitu,Worker,7.50,Y,43.50 
+H,12,Sally,ymitu,Worker,9.50,Y,43.50 
+H,15,Sally,ymitu,Worker,4.50,Y,43.50 
+H,18,Sally,ymitu,Worker,10.50,Y,43.50 
